@@ -16,11 +16,9 @@
   height: 1.5em;
 }
 
-/*.checkbox_gameoflife {
+.checkbox_gameoflife {}
 
-}
-
-.checkbox_gameoflife__game {
+/*.checkbox_gameoflife__game {
   left: 50%;
   position: fixed;
   top: 50%;
