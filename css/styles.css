@@ -55,14 +55,14 @@
   white-space: nowrap;
 }
 
-/*.checkbox_gameoflife__row__cell {
+.checkbox_gameoflife__row__cell {
   height: 20px;
   margin: 0px;
   padding: 0;
   width: 20px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
