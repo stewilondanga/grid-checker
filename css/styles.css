@@ -36,7 +36,7 @@
   z-index: 2;
 }
 
-/*.checkbox_gameoflife__controls button {
+.checkbox_gameoflife__controls button {
   background: #EEE;
   border: 1px solid #DDD;
   box-sizing: border-box;
@@ -48,7 +48,7 @@
   padding: 10px 15px;
 }
 
-.checkbox_gameoflife__controls button:hover {
+/*.checkbox_gameoflife__controls button:hover {
 
 }
 
