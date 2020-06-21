@@ -26,7 +26,7 @@
   z-index: 1;
 }
 
-/*.checkbox_gameoflife__controls {
+.checkbox_gameoflife__controls {
   background: RGBA(255, 255, 255, .8);
   left: 0%;
   position: fixed;
@@ -36,7 +36,7 @@
   z-index: 2;
 }
 
-.checkbox_gameoflife__controls button {
+/*.checkbox_gameoflife__controls button {
   background: #EEE;
   border: 1px solid #DDD;
   box-sizing: border-box;
