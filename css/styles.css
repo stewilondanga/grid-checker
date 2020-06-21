@@ -48,11 +48,9 @@
   padding: 10px 15px;
 }
 
-/*.checkbox_gameoflife__controls button:hover {
+.checkbox_gameoflife__controls button:hover {}
 
-}
-
-.checkbox_gameoflife__row {
+/*.checkbox_gameoflife__row {
   height: 20px;
   white-space: nowrap;
 }
